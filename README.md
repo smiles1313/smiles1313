@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smiles1313, or Sophia. I am an upcoming high school senior in California.
-- 👀 I’m interested in creating games and cybersecurity.
-- 🌱 I’m currently learning Java and Python. I completed a college Intro to Python course, and recently took the AP CSA exam in Java.
+- 👀 I’m interested in coding and mathematics, and wish to learn more about cybersecurity.
+- 🌱 I’m currently learning Java and Python. I completed a college Intro to Python course and the AP CSA exam (Java) with a 5.
 - 💞️ I’m looking for opportunities to apply and expand my skills, such as through mentorships, internships, or project collaborations.
 - 📫 How to reach me: via email at justs.miles1313@gmail.com
 
